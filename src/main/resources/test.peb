@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pebble Test</title>
+    </head>
+
+    <body>
+        <div>{{ companyService.findById(1) }}</div>
+    </body>
+</html>
